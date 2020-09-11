@@ -1,0 +1,10 @@
+.pic{
+    display: flex;
+    justify-content: space-around;
+}
+
+.h2{
+    display: flex;
+    justify-content: center;
+}
+
